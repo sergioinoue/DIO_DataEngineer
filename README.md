@@ -1,6 +1,4 @@
-# DIO_DataEngineer
-
-**DIO Cognizant Cloud Data Engineer Bootcamp - Projeto 1 **
+DIO Cognizant Cloud Data Engineer Bootcamp - Projeto 1
 
 Gráficos do PIB do Brasil de 2010 e 2018
 
